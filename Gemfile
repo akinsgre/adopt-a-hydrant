@@ -9,7 +9,7 @@ gem 'geokit'
 gem 'haml'
 gem 'http_accept_language'
 gem 'nokogiri'
-gem 'pg'
+
 gem 'rails_12factor'
 gem 'rails_admin'
 gem 'validates_formatting_of'
@@ -28,11 +28,13 @@ group :development do
 end
 
 group :development, :test do
+  gem 'sqlite3'
   gem 'pry'
 end
 
 group :production do
   gem 'puma'
+  gem 'pg'	
   gem 'skylight'
 end
 
@@ -40,6 +42,5 @@ group :test do
   gem 'coveralls', require: false
   gem 'rubocop'
   gem 'simplecov', require: false
-  gem 'sqlite3'
   gem 'webmock'
 end
