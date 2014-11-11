@@ -22,10 +22,10 @@ en:
     required: "(required)"
   defaults:
     address: "address"
-    address_1: "1817 W Loucks Road"
+    address_1: "555 Washington Road"
     address_2: ""
-    city: "Scottdale"
-    city_state: "Scottdale, PA"
+    city: "Pittsburgh"
+    city_state: "Pittsburgh, PA"
     neighborhood: ""
     sms_number: "857-555-1212"
     state: "PA"
@@ -33,8 +33,8 @@ en:
     this_thing: "This %{thing}"
     tagline: "Claim responsibility for shoveling out a fire hydrant after it snows."
     tos: "By signing up, you agree to the %{tos}."
-    voice_number: "617-555-1212"
-    zip: "02201-2013"
+    voice_number: "412-555-1212"
+    zip: "15228"
   errors:
     password: "You need to sign in or sign up before continuing."
     not_found: "Could not find %{thing}."
@@ -85,7 +85,7 @@ en:
   sponsors:
     built: "Built in Boston"
     cfa: "Code for America"
-    city: "City of Boston"
+    city: "City of Mount Lebanon"
     mayor:
-      name: "Thomas M. Menino"
-      title: "Mayor"
+      name: "Bob Gaetano"
+      title: "Fire Chief"
