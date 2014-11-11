@@ -60,6 +60,7 @@ en:
     voice_number: "Home phone number"
     zip: "ZIP"
   links:
+    installed_by: "Installed by Insomnia Consulting"
     feedback: "Send feedback"
     forgot_password: "Forgot your password?"
     remembered_password: "Never mind. I remembered my password."

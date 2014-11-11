@@ -26,6 +26,10 @@
               = "#{t("sponsors.mayor.name")},"
               %em
                 = t("sponsors.mayor.title")
+      #installed_by
+        %p
+          %a{:href => URI.escape("http://www.insomnia-consulting.org")}
+            = t("links.installed_by")
       #feedback
         %p
           %a{:href => URI.escape("mailto:rgaetano@mtlebanon.org?subject=#{t("titles.main", :thing => t("defaults.thing").titleize)} - #{t("links.feedback").titleize}")}

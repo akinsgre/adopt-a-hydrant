@@ -60,6 +60,7 @@ es:
     voice_number: "Número de teléfono"
     zip: "Código postal"
   links:
+    installed_by: "Instaladao por Insomnia Consulting"
     feedback: "Envíenos sus comentarios"
     forgot_password: "¿Olvidaste tu contraseña?"
     remembered_password: "No importa. Me acordé de mi contraseña."

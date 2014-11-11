@@ -60,6 +60,7 @@ fr:
     voice_number: "Le numéro de téléphone Accueil"
     zip: "Code postal"
   links:
+    installed_by: "Installed by Insomnia Consulting"
     feedback: "Envoyer des commentaires"
     forgot_password: "Mot de passe oublié?"
     remembered_password: "Jamais l'esprit. J'ai rappelé mon mot de passe."
